@@ -1,2 +1,2 @@
 # python_test_bot
-test telegram bot for currency (EUR, USD, RUB)
+test telegram bot for currency conversion (EUR, USD, RUB)
